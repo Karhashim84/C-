@@ -1,0 +1,15 @@
+D:\GeekBrain\C#\Karhashim\Examples\Exam001\bin\Debug\net7.0\Exam001.exe
+D:\GeekBrain\C#\Karhashim\Examples\Exam001\bin\Debug\net7.0\Exam001.deps.json
+D:\GeekBrain\C#\Karhashim\Examples\Exam001\bin\Debug\net7.0\Exam001.runtimeconfig.json
+D:\GeekBrain\C#\Karhashim\Examples\Exam001\bin\Debug\net7.0\Exam001.dll
+D:\GeekBrain\C#\Karhashim\Examples\Exam001\bin\Debug\net7.0\Exam001.pdb
+D:\GeekBrain\C#\Karhashim\Examples\Exam001\obj\Debug\net7.0\Exam001.csproj.AssemblyReference.cache
+D:\GeekBrain\C#\Karhashim\Examples\Exam001\obj\Debug\net7.0\Exam001.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrain\C#\Karhashim\Examples\Exam001\obj\Debug\net7.0\Exam001.AssemblyInfoInputs.cache
+D:\GeekBrain\C#\Karhashim\Examples\Exam001\obj\Debug\net7.0\Exam001.AssemblyInfo.cs
+D:\GeekBrain\C#\Karhashim\Examples\Exam001\obj\Debug\net7.0\Exam001.csproj.CoreCompileInputs.cache
+D:\GeekBrain\C#\Karhashim\Examples\Exam001\obj\Debug\net7.0\Exam001.dll
+D:\GeekBrain\C#\Karhashim\Examples\Exam001\obj\Debug\net7.0\refint\Exam001.dll
+D:\GeekBrain\C#\Karhashim\Examples\Exam001\obj\Debug\net7.0\Exam001.pdb
+D:\GeekBrain\C#\Karhashim\Examples\Exam001\obj\Debug\net7.0\Exam001.genruntimeconfig.cache
+D:\GeekBrain\C#\Karhashim\Examples\Exam001\obj\Debug\net7.0\ref\Exam001.dll
